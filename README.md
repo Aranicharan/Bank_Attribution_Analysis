@@ -71,4 +71,4 @@ These insights provide a **foundation for future predictive modeling** and strat
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Bank-Attribution-Analysis.git
+   git clone https://github.com/Aranicharan/Bank-Attribution-Analysis.git
